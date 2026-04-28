@@ -123,7 +123,4 @@ Updates every second until fuel drops below 10%.
 
 ---
 
-## License
-This project is for educational purposes.
-
 If any condition fails:
